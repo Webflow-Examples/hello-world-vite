@@ -1,9 +1,5 @@
 {
   "cloud": {
     "framework": "vite"
-  },
-  "devlink": {
-    "rootDir": "./src/devlink",
-    "cssModules": true
   }
 }
